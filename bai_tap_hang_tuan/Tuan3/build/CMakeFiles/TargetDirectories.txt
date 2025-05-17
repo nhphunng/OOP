@@ -1,0 +1,3 @@
+/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan3/build/CMakeFiles/MyProject.dir
+/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan3/build/CMakeFiles/edit_cache.dir
+/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan3/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,148 @@
+49
+Nguyen Hoang Phi
+0704702417
+10
+Le Nhat Khoi
+0902704382
+9.67
+Tran Minh Tuan
+0987654321
+9.5
+Pham Thi Mai
+0912345678
+9.8
+Hoang Van An
+0765432189
+8.9
+Nguyen Thi Lan
+0834567890
+9.2
+Vu Minh Quang
+0976543210
+9.0
+Bui Thi Hoa
+0901234567
+9.3
+Nguyen Van Duy
+0789012345
+8.5
+Le Van Thanh
+0919876543
+9.1
+Tran Thi Kim
+0701234567
+9.4
+Phan Van Cuong
+0981234567
+8.8
+Nguyen Hoang Nam
+0908765432
+9.6
+Le Thi Bich
+0765432109
+9.7
+Vu Van Hai
+0971234567
+8.6
+Bui Minh Tuan
+0834567891
+9.9
+Tran Van Phuc
+0912345679
+8.7
+Pham Thi Thao
+0709876543
+9.2
+Hoang Van Son
+0987654322
+9.4
+Nguyen Thi Hanh
+0901234568
+9.1
+Le Van Khoa
+0765432190
+8.9
+Tran Minh Chau
+0976543211
+9.3
+Phan Van Tinh
+0912345670
+9.5
+Nguyen Hoang Vu
+0789012346
+9.0
+Bui Thi Nhung
+0908765433
+9.8
+Vu Minh Tuan
+0834567892
+9.6
+Tran Van Hieu
+0912345671
+8.8
+Pham Thi Ly
+0701234568
+9.4
+Hoang Van Cuong
+0987654323
+9.2
+Nguyen Thi Thuy
+0901234569
+9.7
+Le Van Hoang
+0765432108
+9.1
+Tran Minh Tien
+0976543212
+8.5
+Phan Van Thanh
+0912345672
+9.3
+Nguyen Hoang Hai
+0789012347
+9.0
+Bui Thi Kim
+0908765434
+9.6
+Vu Minh Hoa
+0834567893
+9.4
+Tran Van Son
+0912345673
+8.9
+Pham Thi Hien
+0701234569
+9.28
+Hoang Van Dinh
+0987654324
+9.5123
+Nguyen Thi Mai
+0901234570
+9.8982
+Le Van Phuc
+0765432107
+9.0
+Tran Minh Hoang
+0976543213
+9.165
+Phan Van Quang
+0912345674
+8.73212
+Nguyen Hoang Minh
+0789012348
+9.3
+Bui Thi Thuy
+0908765435
+9.6
+Vu Minh Tinh
+0834567894
+9.2
+Tran Van Khoa
+0912345675
+8.8
+Pham Thi Lan
+0701234570
+9.4
+Hoang Van Tuan
+0987654325
+9.0

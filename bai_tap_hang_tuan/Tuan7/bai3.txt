@@ -1,0 +1,1 @@
+Lớp Customer có những thông tin: tên, địa chỉ, số điện thoại và trạng thái hoạt động. Một Customer có 1 hay nhiều đơn hàng. Đơn hàng có 4 trạng thái: CREATE, SHIPPING, DELIVERED, PAID. Thông tin đơn hàng gồm có số lượng vật phẩm, và trạng thái. Phương thức thanh toán gồm có 4 loại được thừa kế từ phương thức thanh toán: Credit, Cash, Check, WireTranfer. 

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/nguyenhoangphihung/Tài liệu /OOP/22CLC9/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/MyProject.dir/src/main.cpp.o -c \"/Users/nguyenhoangphihung/Tài liệu /OOP/22CLC9/src/main.cpp\"",
+  "file": "/Users/nguyenhoangphihung/Tài liệu /OOP/22CLC9/src/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/nguyenhoangphihung/Tài liệu /OOP/22CLC9/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/MyProject.dir/src/nhanvien.cpp.o -c \"/Users/nguyenhoangphihung/Tài liệu /OOP/22CLC9/src/nhanvien.cpp\"",
+  "file": "/Users/nguyenhoangphihung/Tài liệu /OOP/22CLC9/src/nhanvien.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/nhanvien.cpp.o"
+},
+{
+  "directory": "/Users/nguyenhoangphihung/Tài liệu /OOP/22CLC9/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/MyProject.dir/src/quanly.cpp.o -c \"/Users/nguyenhoangphihung/Tài liệu /OOP/22CLC9/src/quanly.cpp\"",
+  "file": "/Users/nguyenhoangphihung/Tài liệu /OOP/22CLC9/src/quanly.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/quanly.cpp.o"
+}
+]

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/nguyenhoangphihung/Tài liệu /OOP/W03/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/MyProject.dir/src/DHTT.cpp.o -c \"/Users/nguyenhoangphihung/Tài liệu /OOP/W03/src/DHTT.cpp\"",
+  "file": "/Users/nguyenhoangphihung/Tài liệu /OOP/W03/src/DHTT.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/DHTT.cpp.o"
+},
+{
+  "directory": "/Users/nguyenhoangphihung/Tài liệu /OOP/W03/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/MyProject.dir/src/MangDHTT.cpp.o -c \"/Users/nguyenhoangphihung/Tài liệu /OOP/W03/src/MangDHTT.cpp\"",
+  "file": "/Users/nguyenhoangphihung/Tài liệu /OOP/W03/src/MangDHTT.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/MangDHTT.cpp.o"
+},
+{
+  "directory": "/Users/nguyenhoangphihung/Tài liệu /OOP/W03/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/MyProject.dir/src/main.cpp.o -c \"/Users/nguyenhoangphihung/Tài liệu /OOP/W03/src/main.cpp\"",
+  "file": "/Users/nguyenhoangphihung/Tài liệu /OOP/W03/src/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/main.cpp.o"
+}
+]

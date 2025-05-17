@@ -1,0 +1,18 @@
+Thứ tự phương thức tạo lập:
+- Dat Thanh
+- Hai Dang
+- De tu thu 0 cua Truong phong Hai Dang
+- De tu thu 1 cua Truong phong Hai Dang
+- De tu thu 2 cua Truong phong Hai Dang
+- De tu thu 3 cua Truong phong Hai Dang
+- De tu thu 4 cua Truong phong Hai Dang
+Thứ tự phương thức huỷ: 
+- De tu thu 0 cua Truong phong Hai Dang
+- De tu thu 1 cua Truong phong Hai Dang
+- De tu thu 2 cua Truong phong Hai Dang
+- De tu thu 3 cua Truong phong Hai Dang
+- De tu thu 4 cua Truong phong Hai Dang
+- Hai Dang
+- Dat Thanh
+
+

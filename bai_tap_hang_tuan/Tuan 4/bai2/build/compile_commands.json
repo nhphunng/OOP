@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan 4/bai2/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/MyProject.dir/src/hero.cpp.o -c \"/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan 4/bai2/src/hero.cpp\"",
+  "file": "/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan 4/bai2/src/hero.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/hero.cpp.o"
+},
+{
+  "directory": "/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan 4/bai2/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/MyProject.dir/src/main.cpp.o -c \"/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan 4/bai2/src/main.cpp\"",
+  "file": "/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan 4/bai2/src/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan 4/bai2/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/MyProject.dir/src/skill.cpp.o -c \"/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan 4/bai2/src/skill.cpp\"",
+  "file": "/Users/nguyenhoangphihung/Tài liệu /OOP/Tuan 4/bai2/src/skill.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/skill.cpp.o"
+}
+]
